@@ -1,4 +1,4 @@
-# rewarded.us
+# rewarded.us - find crypto airdrop and claim them automatically
 
 Welcome to **[rewarded.us](https://rewarded.us/)** – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
 
@@ -21,17 +21,6 @@ Welcome to **[rewarded.us](https://rewarded.us/)** – Your one-stop solution fo
 2. **Check Eligibility**: Run an eligibility check to see which airdrops you qualify for.
 3. **Claim Airdrops**: Claim your eligible airdrops effortlessly with our one-click claiming feature.
 4. **Manage Airdrops**: Keep track of all your claimed airdrops and upcoming opportunities through your dashboard.
-
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to rewarded.us, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit them: `git commit -m 'Add new feature'`
-4. Push to the branch: `git push origin feature-branch`
-5. Create a pull request.
 
 
 
