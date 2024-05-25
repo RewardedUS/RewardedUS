@@ -1,11 +1,11 @@
 # rewarded.us
 
-Welcome to **rewarded.us** – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
+Welcome to **[rewarded.us](https://rewarded.us/)** – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
 
 ## What is rewarded.us?
 ![rewarded.us](https://i.imgur.com/BK6jau8.png)
 
-rewarded.us is a powerful tool designed to simplify the process of discovering and claiming cryptocurrency airdrops. Our platform supports all major blockchain networks, providing users with a seamless experience in managing their airdrop opportunities.
+[rewarded.us](https://rewarded.us/) is a powerful tool designed to simplify the process of discovering and claiming cryptocurrency airdrops. Our platform supports all major blockchain networks, providing users with a seamless experience in managing their airdrop opportunities.
 
 ## Key Features
 
